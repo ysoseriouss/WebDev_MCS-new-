@@ -1,0 +1,15 @@
+body {
+	background: grey;
+}
+h1 {
+	color: yellow;
+}
+p {
+	color: #3453FF;
+}
+div {
+	color: rgb(255, 0, 0);
+}
+li {
+	color: rgba(0, 255, 0, .4);
+}
